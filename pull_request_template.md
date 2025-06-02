@@ -11,3 +11,6 @@
 
 ## Implementation Notes
 <!-- Add relevant context: ex. dependency updates/additions, design notes, or Figma links. -->
+
+## Test Plan
+<!-- Include the steps taken to test the PR, a description should enable another developer to easily recreate the test steps and help reviewers identify additional cases. -->
